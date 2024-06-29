@@ -1,0 +1,43 @@
+Button{
+	font-size:40px;
+	padding:20px;
+	border-radius:10px;
+	margin:20px;
+	
+}
+#btnone
+{
+	
+	text-align:center;
+	width:500px;
+	color:red;
+	
+	
+}
+#btntwo
+{
+	display:block;
+	margin-left:100px;
+	text-align:center;
+	width:500px;
+	
+}
+#btnthree
+{
+	
+	text-align:center;
+	width:500px;
+}
+#carouselExampleIndicators
+{
+	
+	top:-350px;
+	width:680px;
+	left:700px;
+	bottom:300px;
+}
+.carousel-inner
+{
+	border-radius:100px;
+	
+}
